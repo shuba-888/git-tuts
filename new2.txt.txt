@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi dev
+=======
+hii
+>>>>>>> origin/master
